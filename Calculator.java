@@ -5,7 +5,5 @@ public class Calculator {
         System.out.println("2 * 1 = 2");
         System.out.println("2 / 1 = 2");
         // 추가
-
-        // What
     }
 }
